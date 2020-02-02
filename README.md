@@ -13,6 +13,11 @@
 
 * AwsDataFetchWorker.perform_async
 
+
+# To run scheduler
+
+* bundle exec whenever
+
 #API
 Fetching all  data
 *  GET http://localhost:3000/view_pricing
